@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/QML_Tesla_autogen",
+	"CMAKE_BINARY_DIR" : "/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla",
+	"CMAKE_SOURCE_DIR" : "/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla",
+	"INCLUDE_DIR" : "/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/QML_Tesla_autogen/include",
+	"INPUTS" : 
+	[
+		"/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/main.qml",
+		"/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/UI/RightScreen/NavigationSearchBox.qml",
+		"/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/UI/RightScreen/RightScreen.qml",
+		"/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/UI/BottomBar/BottomBar.qml",
+		"/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/UI/LeftScreen/LeftScreen.qml",
+		"/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/UI/assets/CarIcon.png",
+		"/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/UI/assets/UnlockIcon.png",
+		"/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/UI/assets/profilePhoto.jpg",
+		"/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/UI/assets/search.png",
+		"/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/UI/assets/CarRender.jpg",
+		"/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/UI/assets/LockIcon.png"
+	],
+	"LOCK_FILE" : "/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/QML_Tesla_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/home/muhammad/Qt/6.7.0/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/QML_Tesla_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/qml.qrc",
+	"VERBOSITY" : 0
+}

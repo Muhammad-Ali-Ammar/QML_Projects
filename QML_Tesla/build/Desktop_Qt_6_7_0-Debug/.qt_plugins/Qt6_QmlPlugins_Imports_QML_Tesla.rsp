@@ -1,0 +1,9 @@
+-rootPath
+/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla
+-cmake-output
+-output-file
+/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_QML_Tesla.cmake
+-importPath
+/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug
+-importPath
+/home/muhammad/Qt/6.7.0/gcc_64/./qml

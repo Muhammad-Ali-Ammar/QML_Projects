@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UI/BottomBar/BottomBar.qml</file>
+        <file>UI/RightScreen/RightScreen.qml</file>
+        <file>UI/LeftScreen/LeftScreen.qml</file>
+        <file>UI/assets/CarRender.jpg</file>
+        <file>UI/assets/CarIcon.png</file>
+        <file>UI/assets/LockIcon.png</file>
+        <file>UI/assets/UnlockIcon.png</file>
+        <file>UI/assets/profilePhoto.jpg</file>
+        <file>UI/RightScreen/NavigationSearchBox.qml</file>
+        <file>UI/assets/search.png</file>
+    </qresource>
+</RCC>

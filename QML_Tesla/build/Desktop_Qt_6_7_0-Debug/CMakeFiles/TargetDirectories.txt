@@ -1,0 +1,9 @@
+/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/QML_Tesla.dir
+/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/QML_Tesla_qmlimportscan.dir
+/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/edit_cache.dir
+/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/rebuild_cache.dir
+/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/list_install_components.dir
+/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install.dir
+/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install/local.dir
+/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/install/strip.dir
+/media/muhammad/my hard-drive/qt_qml/ProjectWorkSpace/QML_Tesla/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/QML_Tesla_autogen.dir
